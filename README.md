@@ -1,4 +1,4 @@
 # GitTraining
-## Git Schulung 12.03.2025
+## Git Schulung
 
 Das ist unser zentrales Git Repository
